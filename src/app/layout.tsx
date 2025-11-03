@@ -17,8 +17,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'The Oven Fresh',
-  description: 'Your Favorite South Indian Restaurant',
+  title: 'Restaurant Booking Demo',
+  description: 'Try our restaurant management dashboard',
 };
 
 export default function RootLayout({
